@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Webhook-funcional",
+			"path": "."
+		},
+		{
+			"name": "projeto-progfunc",
+			"path": "../projeto-progfunc"
+		}
+	],
+	"settings": {}
+}
